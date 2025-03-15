@@ -1,5 +1,4 @@
 # Symbol Classifier
---------
 
 🔥 Torch it Up - ML Challenge: Handwritten Mathematical Symbol Classification
 =============================================================================
